@@ -1,5 +1,6 @@
 Github depositry link:
 https://github.com/ST10497233/RH-IMAD-1-
+https://github.com/VCPTA/hmaw1-imad5112-assignment-1-ST10497233
 Purpose of the app
 Why not have an advanced app designed to help users find the perfect meal suggestions whenever they need them? Whether you're craving a healthy dish, looking to try new cuisines, or catering to specific dietary preferences, users can browse a variety of meal options, save their favorites, and choose the most suitable ones. They have the flexibility to plan meals for the day or get instant suggestions based on ingredients they have at home, offering a personalized and convenient dining experience. This innovative platform brings meal inspiration right to your fingertips, allowing you to discover the ideal meal anytime.
 
