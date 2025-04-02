@@ -14,3 +14,14 @@ On average, people spend between 3 to 5 hours a day using mobile apps. With so m
 •	Consistency in design: To make sure the app looks nice and is easy to use everything should match. Keep icons, fonts and colours consistent. Make sure buttons and menus work consistently across the entire app.
 
 •	Feedback and Visual cues: Make sure the app is easy to use and works fast. The feedback the app is giving should make the user feel like they are flowing.
+Screenshots
+![IMAD screenshot1](https://github.com/user-attachments/assets/29061172-3b62-4a37-9432-bb3bdf501eb6)
+![IMAD screenshot2](https://github.com/user-attachments/assets/a315b0e7-caa7-4352-a048-8dfba5415bb6)
+![IMAD screenshot3](https://github.com/user-attachments/assets/f4bc181a-eb27-4a72-99b3-ce6a940fe404)
+![IMAD screenshot4](https://github.com/user-attachments/assets/3598d349-722b-4b56-a61a-61b13ce692de)
+![IMAD screenshot5](https://github.com/user-attachments/assets/3c9e4f7c-987d-48c4-ae95-9224162fc443)
+![IMAD screenshot6](https://github.com/user-attachments/assets/78263a22-ec3c-40bf-b29c-81fd91a92647)
+Youtube video link:
+References:
+
+
