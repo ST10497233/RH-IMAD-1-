@@ -1,0 +1,54 @@
+Rhandzu Hlungwane
+ST10497233
+Meal suggestions
+
+1. Breakfast :
+Oatmeal Porridge: A steaming bowl of oatmeal prepared with water or milk and made with steel-cut or rolled oats. For extra taste, sprinkle with honey, nuts, or fruits.
+
+Avocado bread: Whole-grain bread topped with mashed avocado, a poached egg, and a dash of salt and pepper.
+Smoothie Bowl: Blend your favourite fruits with yoghurt or milk, pour into a bowl, and garnish with granola, chia seeds, and berries.
+
+2. Mid Morning snack: 
+Cinnamon Apples: Sauté diced apples with cinnamon and a little honey until they are soft.  
+Nuts and Dried Fruits: A handful of mixed nuts and dried fruits for a rapid energy boost. 
+Greek Yoghurt with Berries: A dish of Greek yoghurt topped with fresh berries and a honey drizzle.
+
+3. Afternoon (Lunch):
+Grain Bowl: Combine quinoa or brown rice with roasted vegetables, lean protein (like grilled chicken or tofu), and a light dressing. 
+Wrap or Sandwich: Whole-grain wrap or sandwich filled with hummus, lean meats, plenty of veggies, and avocado.
+Salad with Grilled Protein: A mixed greens salad topped with grilled salmon, chickpeas, cucumbers, tomatoes, and a vinaigrette 
+
+
+
+
+4. Mid-Afternoon Snack:
+Hummus and Veggies: Sliced carrots, celery, and bell peppers served with hummus. 
+Rice Cakes with Nut Butter: Whole-grain rice cakes spread with almond or peanut butter.
+Trail Mix Energy Bites: Homemade or store-bought energy bites made from oats, nut butter, honey, and dried fruits.(eatwell.com)
+
+5. Evening (Dinner):
+Grilled Salmon with Vegetables: Grilled salmon fillets served with steamed broccoli and quinoa.
+Stir-Fried Tofu with Vegetables: Sautéed tofu cubes with a mix of colourful vegetables in a light soy sauce, served over brown rice. 
+Chicken and Vegetable Casserole: A hearty casserole combining chicken, assorted vegetables, and whole-grain pasta or rice.
+
+6. After Dinner (Dessert or Light Snack): 
+Baked Cinnamon Apples: Warm baked apples sprinkled with cinnamon and a touch of sweetener, served with a scoop of vanilla yogurt.
+(allrecipes.com)
+Dark Chocolate with Almonds: A small piece of dark chocolate paired with a handful of almonds.
+Herbal Tea and Whole-Grain Biscuit: A cup of chamomile or peppermint tea accompanied by a whole-grain biscuit. Remember to adjust portion sizes and ingredients based on your dietary needs and preferences
+
+
+Purpose of the app
+Why not have an advanced app designed to help users find the perfect meal suggestions whenever they need them? Whether you're craving a healthy dish, looking to try new cuisines, or catering to specific dietary preferences, users can browse a variety of meal options, save their favorites, and choose the most suitable ones. They have the flexibility to plan meals for the day or get instant suggestions based on ingredients they have at home, offering a personalized and convenient dining experience. This innovative platform brings meal inspiration right to your fingertips, allowing you to discover the ideal meal anytime.
+
+Design considerations
+On average, people spend between 3 to 5 hours a day using mobile apps. With so many options available, the competition is intense. To create a successful app, the most vital component to focus on is user experience. This determines whether an app is user-friendly and effective, making it simple to navigate, visually appealing, and easy to use.
+•	Screen size: Design for common smartphone sizes and make sure it works well on screens between 4.7 and 6.5 inches.
+
+•	Simplicity: When designing the app you must think about the users. It must be easy to understand, simple to navigate and it must be visually appealing. This way anybody can use it without confusion.
+
+•	Finger-friendly mobile design: The app has to be easy to use with both hands or either hand. Make the buttons big enough to tap easily and design it so that important features are within easy reach of the thumb.
+
+•	Consistency in design: To make sure the app looks nice and is easy to use everything should match. Keep icons, fonts and colours consistent. Make sure buttons and menus work consistently across the entire app.
+
+•	Feedback and Visual cues: Make sure the app is easy to use and works fast. The feedback the app is giving should make the user feel like they are flowing. 
